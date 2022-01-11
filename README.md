@@ -1,4 +1,4 @@
-- 👋 Hell I'm @lucjdyoung aspiring JS and web developer.
+- 👋 Hello I'm @lucjdyoung aspiring JS and web developer.
 - 👀 I’m interested in IT , anime , webdev , programming and spearfishing
 - 🌱 I’m currently learning React and Typescript
 - 📫 How to reach me lucjdyoung@gmail.com
